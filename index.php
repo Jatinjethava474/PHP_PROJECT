@@ -17,7 +17,7 @@ if (isset($_GET['sing_up']) && !$_SESSION["user"]["email"]) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MusicBeat</title>
+    <title>MusicBeat Web</title>
     <link href="music.css" rel="stylesheet">
 
     <link href="./bootstrap.min.css" rel="stylesheet" />
