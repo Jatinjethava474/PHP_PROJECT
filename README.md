@@ -1,2 +1,2 @@
 # PHP_PROJECT
-information about PHP site.
+information about PHP PROJECT.
